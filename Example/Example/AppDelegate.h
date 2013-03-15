@@ -6,14 +6,14 @@
 //  Copyright (c) 2013 AppUnite.com. All rights reserved.
 //
 
+//Frameworks
 #import <UIKit/UIKit.h>
 
-@class ViewController;
+@class CalendarViewController;
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
-
-@property (strong, nonatomic) ViewController *viewController;
+@property (strong, nonatomic) CalendarViewController *viewController;
 
 @end

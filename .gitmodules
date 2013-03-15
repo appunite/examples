@@ -1,0 +1,3 @@
+[submodule "Frameworks/AUKit"]
+	path = Frameworks/AUKit
+	url = ssh://review.appunite.com/aukitv2.git
